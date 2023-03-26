@@ -1,0 +1,29 @@
+.board {
+    width: 80vh;
+    height: 80vh;
+}
+
+.middle {
+    width: 80vh;
+    height: 100vh;
+}
+
+.side {
+    width: calc((100vw - 80vh) / 2);
+    height: 80vh;
+}
+
+.square {
+    width: calc(100% / 8);
+    height: calc(100% / 8);
+}
+
+.ghost-piece {
+    width: 10vh;
+    height: 10vh;
+}
+
+.fullscreen {
+    width: 100vw;
+    height: 100vh;
+}

@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#main {
+    justify-content: space-between;
+}
+
+.side {
+    flex-direction: column;
+    justify-content: space-between;
+}

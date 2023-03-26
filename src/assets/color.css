@@ -1,0 +1,22 @@
+body {
+    background-color: #343434;
+    color: #cdcdcd;
+}
+
+.board {
+    border-color: #676767;
+}
+
+.square {
+    width: calc(100% / 8);
+    height: calc(100% / 8);
+    background-color: #d7c39e;
+}
+
+.square.black {
+    background-color: #544933;
+}
+
+.side {
+    background-color: #ffffff;
+}
