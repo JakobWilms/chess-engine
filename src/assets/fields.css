@@ -1,0 +1,9 @@
+#fen-field {
+    border-width: 1px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+#fen-field:focus {
+    border-radius: 12px;
+}

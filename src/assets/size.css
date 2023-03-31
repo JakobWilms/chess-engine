@@ -27,3 +27,17 @@
     width: 100vw;
     height: 100vh;
 }
+
+.max-size {
+    width: 100%;
+    height: 100%;
+}
+
+.fen-field-wrapper {
+    width: 100%;
+    height: 10%;
+}
+
+#fen-field {
+    width: 80%;
+}

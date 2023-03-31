@@ -17,6 +17,12 @@ body {
     background-color: #544933;
 }
 
-.side {
-    background-color: #ffffff;
+#fen-field {
+    background-color: #454545;
+    border-color: #676767;
+    color: #cdcdcd;
+}
+
+#fen-field:focus {
+    border-color: #008dcd;
 }
